@@ -37,7 +37,7 @@
 
 ---
 
-## 🧩 Aletheia – Project Architecture
+## 🧩 Project Architecture
 
 ```mermaid
 flowchart TD
