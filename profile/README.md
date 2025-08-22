@@ -37,6 +37,29 @@
 
 ---
 
+# 🧩 Aletheia – Project Architecture
+
+```mermaid
+flowchart TD
+    CORE[Aletheia Core<br/>📊 Data Catalog + API<br/>🔬 Analysis Engine]
+
+    CLI[Aletheia CLI<br/>💻 Terminal Tools<br/>for Core API]
+    SIM[Aletheia Simulations<br/>🧪 Physics & Modeling<br/>Scientific Workflows]
+    P2P[Aletheia P2P<br/>🌐 Decentralized Collaboration<br/>Compute Sharing]
+
+    UI[User Interfaces<br/>📒 Notebooks, Docs, Wiki, UI]
+
+    CORE --> CLI
+    CORE --> SIM
+    CORE --> P2P
+
+    CLI --> UI
+    SIM --> UI
+    P2P --> UI
+```
+
+---
+
 ## 🔗 Links
 - [Aletheia Core](https://github.com/Ergasterion-Aletheias/aletheia-core)  
 - [Aletheia CLI](https://github.com/Ergasterion-Aletheias/aletheia-cli)  
