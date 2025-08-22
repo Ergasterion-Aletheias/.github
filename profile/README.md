@@ -25,7 +25,8 @@
 ## 🚀 Why Aletheia?
 - Open-source and modular  
 - Designed for scientists, researchers, and hackers  
-- High-performance Rust backend  
+- High-performance [Rust](https://www.rust-lang.org/)
+ backend  
 - Future-ready for decentralized workflows
 
 ---
