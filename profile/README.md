@@ -1,4 +1,4 @@
-# 🛠️ Aletheia – The Lab of Truth
+# 🛠️ Aletheia
 
 > Decentralized, open-source platform for scientific exploration and experimentation.
 
