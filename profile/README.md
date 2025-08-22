@@ -70,6 +70,6 @@ flowchart TD
 
 ---
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Build](https://img.shields.io/badge/build-experimental-orange)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Rust](https://img.shields.io/badge/language-Rust-orange)
