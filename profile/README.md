@@ -67,3 +67,9 @@ flowchart TD
 - [Aletheia Simulations](https://github.com/Ergasterion-Aletheias/aletheia-simulations)  
 - [Aletheia P2P](https://github.com/Ergasterion-Aletheias/aletheia-p2p)  
 - [Wiki & Documentation](https://github.com/Ergasterion-Aletheias/aletheia-core/wiki)
+
+---
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Rust](https://img.shields.io/badge/language-Rust-orange)
